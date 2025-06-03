@@ -1,5 +1,6 @@
 # RPG Game - Link's Adventure
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/8faee760-aecf-4d14-84b5-da5ceef0bed4" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/ee47cad7-27c6-4415-906a-0b4961ba9150" />
 
 ## 1. 游戏简介
 
